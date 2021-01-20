@@ -1,7 +1,1 @@
 # Introduction to Reading Lists
-
-Reading lists are widely used by faculty and students in UL.
-
-However statistics can be hard to gather.
-
-We use Leganto in UL as our reading list software.
