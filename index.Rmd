@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Statistical breakdown on the use of reading list by an academic insitution"
+author: "Anne McMahon"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
